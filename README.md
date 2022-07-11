@@ -1,0 +1,1 @@
+# smart-switch-form-config
